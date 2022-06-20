@@ -30,3 +30,15 @@ variables are containers that hold a value
 '1name = "celin" ' -->' allowed
 2 can only contsibn numbers, letters, and underscores (_) my name ="celinw"--> not LOWED
 IF MORE THAN on word, use camelcase or underscores to separate words 'myfirstname' or 'my_first_name'
+'myFirstName' or 'my_first_name'
+
+## concatenation
+'+' adding strings together, appending (add to end)
+
+"hello" +"world" = "hello world"
+
+## type cast
+forcing a data type on a value
+
+## to force a string into an integer
+'int(variableName)'
